@@ -12,10 +12,10 @@ Full-Stack Developer | JavaScript, Node.js, PostgreSQL, MongoDB | Turning ideas 
 ![](https://streak-stats.demolab.com/?user=krishna-7033&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=krishna-7033&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krishna-7033&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=krishna-7033&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
