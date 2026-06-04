@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | JavaScript, Node.js, PostgreSQL, MongoDB | Turning ideas into web applications.<br>
+Full-Stack Developer | JavaScript, Node.js, PostgreSQL, MongoDB, OAuth 2.0 Integration | Turning ideas into web applications.<br>
 
 
 ## 🌐 Socials:
